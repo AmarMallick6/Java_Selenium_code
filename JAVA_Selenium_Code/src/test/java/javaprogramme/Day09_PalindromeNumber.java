@@ -2,7 +2,7 @@ package javaprogramme;
 
 import java.util.Scanner;
 
-public class Day9_PalindromeNumber {
+public class Day09_PalindromeNumber {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day4_CountCharacterOccueranceFromString {
+public class Day04_CountCharacterOccueranceFromString {
 
 	public static void main(String[] args) {
 		String name = "Amar kumar Mallick";

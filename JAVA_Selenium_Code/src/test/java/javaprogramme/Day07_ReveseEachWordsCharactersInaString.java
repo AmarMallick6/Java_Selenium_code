@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day7_ReveseEachWordsCharactersInaString {
+public class Day07_ReveseEachWordsCharactersInaString {
 
 	public static void main(String[] args) {
 		// Approach-01>>>>>>>>>>Using Build In Methods...............

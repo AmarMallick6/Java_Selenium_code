@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day1_StringCharcters_Reverse {
+public class Day01_StringCharcters_Reverse {
 
 	public static void main(String[] args) {
 		String name = "INDIA";

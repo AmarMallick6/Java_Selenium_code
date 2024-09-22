@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day8_ReverseANumber {
+public class Day08_ReverseANumber {
 
 	public static void main(String[] args) {
 		//Approach-01>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

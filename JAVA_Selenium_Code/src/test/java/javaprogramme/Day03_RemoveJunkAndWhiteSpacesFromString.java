@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day3_RemoveJunkAndWhiteSpacesFromString {
+public class Day03_RemoveJunkAndWhiteSpacesFromString {
 
 	public static void main(String[] args) {
     //1)Remove Junk or Special Characters ..............

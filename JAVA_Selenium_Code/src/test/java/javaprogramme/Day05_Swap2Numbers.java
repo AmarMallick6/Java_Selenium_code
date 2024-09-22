@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day5_Swap2Numbers {
+public class Day05_Swap2Numbers {
 
 	public static void main(String[] args) {
 		//Approach-01>>>>>>>>>>>>>Using 3rd variable.........

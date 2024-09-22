@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day6_CountNumbersOfWord {
+public class Day06_CountNumbersOfWord {
 
 	public static void main(String[] args) {
 		String x = "My Name Is Amar Kumar ";

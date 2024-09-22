@@ -1,6 +1,6 @@
 package javaprogramme;
 
-public class Day2_PalindromeName {
+public class Day02_PalindromeName {
 
 	public static void main(String[] args) {
 		String name = "MADAM";
