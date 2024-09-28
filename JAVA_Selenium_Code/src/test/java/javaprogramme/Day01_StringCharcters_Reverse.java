@@ -12,12 +12,16 @@ public class Day01_StringCharcters_Reverse {
 		}
 		System.out.println(" After Reverse Name is :"+ rev_name);
  //Approach-02 : Converting String to Char Array Type  methods...........
-		  char[] n = name.toCharArray();
-		  for (char c : n) {
-			  System.out.print(c);   // now return type is char type Array we can convert it to String
-			  
-		}
-		 
+		String x="BHARAT";
+		String r ="";
+		  char[] n =x.toCharArray();
+		  for (int i=n.length-1;i>=0;i--) {
+			     r=r+n[i];
+		  }  
+		System.out.println(r);
+  //Approach-03 : use String Buffer or Builder class.........
+		StringBuffer sBuffer= new StringBuffer(r);
+		 System.out.println(sBuffer.reverse());
 	}
 	
 
